@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Ferdomoner73.github.io/book-shelf-project-9",
+  "homepage": "https://GoitStudentsWorks.github.io/js_83_Ferdomoner73",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /book-shelf-project-9/"
+    "build": "parcel build src/*.html --public-url /js_83_Ferdomoner73/"
   },
   "repository": {
     "type": "git",
